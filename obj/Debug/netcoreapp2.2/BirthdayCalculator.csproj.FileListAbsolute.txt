@@ -1,0 +1,11 @@
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\bin\Debug\netcoreapp2.2\BirthdayCalculator.deps.json
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\bin\Debug\netcoreapp2.2\BirthdayCalculator.runtimeconfig.json
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\bin\Debug\netcoreapp2.2\BirthdayCalculator.runtimeconfig.dev.json
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\bin\Debug\netcoreapp2.2\BirthdayCalculator.dll
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\bin\Debug\netcoreapp2.2\BirthdayCalculator.pdb
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.csprojAssemblyReference.cache
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.AssemblyInfoInputs.cache
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.AssemblyInfo.cs
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.dll
+C:\Users\spage\OneDrive\Documents\C#\BirthdayCalculator\obj\Debug\netcoreapp2.2\BirthdayCalculator.pdb
