@@ -38,12 +38,11 @@ namespace C_
 
                 //Calculate TimeSpan until next Birthday
                 TimeSpan untilBDay = nextBDay.Subtract(now);
-
                 Double DaysUntilBDay = Convert.ToDouble(untilBDay.Days);
                 Double MonthsUntilBDay = Math.Round(DaysUntilBDay / 30);
 
                 Console.WriteLine("Your next birthday is in approximatly {0} Month(s).", MonthsUntilBDay);
-
+                //comment
                 Double WeeksUntilBDay = 0;
 
                 if (now.DayOfWeek == DayOfWeek.Tuesday)
