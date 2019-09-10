@@ -42,7 +42,6 @@ namespace C_
                 Double MonthsUntilBDay = Math.Round(DaysUntilBDay / 30);
 
                 Console.WriteLine("Your next birthday is in approximatly {0} Month(s).", MonthsUntilBDay);
-                //comment
                 Double WeeksUntilBDay = 0;
 
                 if (now.DayOfWeek == DayOfWeek.Tuesday)
